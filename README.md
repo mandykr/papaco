@@ -4,6 +4,7 @@
 - [papaco-auth-service](https://github.com/mandykr/papaco-auth-service)
 - [papaco-member-service](https://github.com/mandykr/papaco-member-service)
 - [papaco-project-service](https://github.com/mandykr/papaco-project-service)
+- [papaco-third-party-client-service](https://github.com/mandykr/papaco-third-party-client-service)
 - papaco-config(Private Repository)
 
 ## 요구사항
