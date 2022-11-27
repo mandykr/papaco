@@ -1,3 +1,9 @@
+## Papaco
+프로젝트의 리뷰어를 매칭해 Github 리포지토리를 기반으로 리뷰를 진행하도록 돕는 MSA 기반 서비스
+
+### Event storming
+![eventstorming.png](eventstorming.png)
+
 ## Subtrees
 - [papaco-discovery-service](https://github.com/mandykr/papaco-discovery-service)
 - [papaco-api-gateway](https://github.com/mandykr/papaco-api-gateway)
